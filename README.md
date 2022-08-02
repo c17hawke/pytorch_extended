@@ -1,4 +1,3 @@
-# docsTemplate
-its just a template Repository for documentation
+# pytorch_extended
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+The main documentation is available at https://c17hawke.github.io/pytorch_extended/
